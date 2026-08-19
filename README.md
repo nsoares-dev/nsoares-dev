@@ -258,63 +258,7 @@ BACKEND_FOCUS .......... MAXIMUM
 NEXT_LEVEL ............. IN_PROGRESS
 ```
 
-<br/>
 
-<!-- ═══════════════════════════ GITHUB STATS ════════════════════════ -->
-
-## `> GITHUB_TELEMETRY`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=7C3AED&ring_color=00E5FF" alt="GitHub Stats"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Top Languages"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════ ACTIVITY GRAPH ═══════════════════════ -->
-
-## `> ACTIVITY_MONITOR`
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB&bg_color=0D1117&color=C9D1D9&line=00E5FF&point=7C3AED&area=true&area_color=0891B2&hide_border=true&custom_title=SYSTEM%20ACTIVITY%20LOG" alt="GitHub Activity Graph"/>
-
-</div>
-
-<br/>
-
-<!-- ═════════════════════════════ TROPHIES ══════════════════════════ -->
-
-## `> ACHIEVEMENTS_UNLOCKED`
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_GITHUB&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub Trophies"/>
-
-</div>
-
-<br/>
-
-<!-- ═════════════════════════════ SNAKE ═════════════════════════════ -->
-
-## `> CONTRIBUTION_PROTOCOL`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
 
 <br/>
 
@@ -324,11 +268,11 @@ NEXT_LEVEL ............. IN_PROGRESS
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO_GITHUB">
+<a href="https://github.com/nsoares-dev">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+<a href="https://www.linkedin.com/in/nicolas-oliveira-753333270/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
