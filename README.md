@@ -268,11 +268,11 @@ NEXT_LEVEL ............. IN_PROGRESS
 
 <div align="center">
 
-<a href="https://github.com/nsoares-dev">
+<a href="https://github.com/nsoares-dev" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/in/nicolas-oliveira-753333270/">
+<a href="https://www.linkedin.com/in/nicolas-oliveira-753333270/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
